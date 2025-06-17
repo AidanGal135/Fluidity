@@ -1,6 +1,6 @@
 if SHIELD_FLUIDITY
 
 config ZMK_KEYBOARD_NAME
-    default "Fluidity"
+    default "fluidity"
 
 endif

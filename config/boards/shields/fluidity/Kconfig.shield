@@ -1,2 +1,2 @@
 config SHIELD_FLUIDITY
-    def_bool $(shields_list_contains, Fluidity)
+    def_bool $(shields_list_contains,fluidity)
