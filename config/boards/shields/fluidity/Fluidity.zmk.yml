@@ -1,0 +1,9 @@
+file_format: "1"
+id: fluidity
+name: Fluidity
+type: shield
+url: https://github.com/AidanGal135/Fluidity
+requires:
+  - nice_nano_v2
+features:
+  - keys
